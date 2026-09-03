@@ -18,7 +18,6 @@ class Profile:
 - 🔒 **Cybersecurity Focus:** Exploring network security, ethical hacking fundamentals, and system defenses.
 - 📊 **Data Engineering Focus:** Studying data pipelines, SQL, ETL processes, and database architecture.
 - 🤖 **AI & Python:** Utilizing AI tools ethically as an assistant for software architecture, code optimization, and technical documentation.
-- 👨‍🏫 **Mentorship:** Guided by **Prof. Me. Celso Cândido** in Software Development coursework.
 
 ---
 
