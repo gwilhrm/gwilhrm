@@ -1,4 +1,9 @@
-# Hi there, I'm Guilherme 👋
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Guilherme+%F0%9F%91%8B;Building%2C+learning+and+documenting+along+the+way."
+    alt="Typing SVG"
+  />
+</p>
 
 ```python
 class Profile:
@@ -6,18 +11,18 @@ class Profile:
         self.name = "Guilherme"
         self.role = "Software Engineering Student @ UNICID"
         self.location = "São Paulo, Brazil"
-        self.focus_areas = ["Cybersecurity", "Data Engineering"]
-        self.tech_stack = ["Python", "Git/GitHub", "Linux", "SQL"]
+        self.focus_areas = ["Data Engineering","Software for Data","Databases"]
+        self.tech_stack = ["Python","SQL","Git/GitHub","Linux"]
 ```
 
 ---
 
 ## 🎯 About Me
 
-- 🎓 **Education:** Software Engineering Student at **UNICID** (Universidade Cidade de S. Paulo) – 2nd Semester.
-- 🔒 **Cybersecurity Focus:** Exploring network security, ethical hacking fundamentals, and system defenses.
+- 🎓 **Education:** Software Engineering Student at **UNICID** (Universidade Cidade de S. Paulo) – Expected graduation: 2029.
 - 📊 **Data Engineering Focus:** Studying data pipelines, SQL, ETL processes, and database architecture.
-- 🤖 **AI & Python:** Utilizing AI tools ethically as an assistant for software architecture, code optimization, and technical documentation.
+- 💻 **Software for Data Focus:** Developing Python applications and exploring software engineering applied to data systems.
+- 🐧 **Linux & Automation:** Currently expanding my knowledge of Ubuntu through WSL2, command-line tools, file permissions, process management and Python automation.
 
 ---
 
