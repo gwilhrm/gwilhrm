@@ -41,8 +41,8 @@ class Profile:
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/gguilhermepinheiro](https://www.linkedin.com/in/gguilhermepinheiro))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gguilhermepinheiro)
 
 ---
 
-> *"Building secure, data-driven solutions with clean code and continuous learning."*
+> *"Building reliable, data-driven solutions with clean code and continuous learning."*
