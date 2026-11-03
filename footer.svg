@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 1200 140" width="1200" height="140" role="img" aria-label="Let's turn data into decisions">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050b1a"/>
+      <stop offset="0.55" stop-color="#0a1830"/>
+      <stop offset="1" stop-color="#06122a"/>
+    </linearGradient>
+    <radialGradient id="fglow" cx="0.5" cy="0.6" r="0.5">
+      <stop offset="0" stop-color="#1e6fff" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#1e6fff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="fgrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#2a4a7a" opacity="0.35"/>
+    </pattern>
+    <clipPath id="fround"><rect width="1200" height="140" rx="14"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#fround)">
+    <rect width="1200" height="140" fill="url(#fbg)"/>
+    <rect width="1200" height="140" fill="url(#fgrid)"/>
+    <rect width="1200" height="140" fill="url(#fglow)"/>
+
+    <!-- pipeline line: raw data -> decisions -->
+    <line x1="80" y1="70" x2="300" y2="70" stroke="#3d7bff" stroke-opacity="0.5" stroke-width="1.5" stroke-dasharray="4 6"/>
+    <line x1="900" y1="70" x2="1120" y2="70" stroke="#3d7bff" stroke-opacity="0.5" stroke-width="1.5" stroke-dasharray="4 6"/>
+    <g fill="#7fb0ff">
+      <circle cx="80" cy="70" r="4"/>
+      <circle cx="190" cy="70" r="4"/>
+      <circle cx="300" cy="70" r="4"/>
+      <circle cx="900" cy="70" r="4"/>
+      <circle cx="1010" cy="70" r="4"/>
+    </g>
+    <circle cx="1120" cy="70" r="7" fill="#4fd1c5">
+      <animate attributeName="r" values="6;9;6" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3" fill="#ffffff">
+      <animateMotion dur="3s" repeatCount="indefinite" path="M80,70 L300,70"/>
+    </circle>
+    <circle r="3" fill="#ffffff">
+      <animateMotion dur="3s" begin="1.5s" repeatCount="indefinite" path="M900,70 L1120,70"/>
+    </circle>
+
+    <text x="600" y="68" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" fill="#ffffff"><tspan font-weight="300">Let's turn </tspan><tspan font-weight="800">data</tspan><tspan font-weight="300"> into </tspan><tspan font-weight="800" fill="#4fd1c5">decisions</tspan></text>
+    <text x="600" y="100" text-anchor="middle" font-family="Consolas, Menlo, 'Courier New', monospace" font-size="14" fill="#7f9cc8">&gt; thanks for visiting — see you in the next commit</text>
+  </g>
+</svg>
