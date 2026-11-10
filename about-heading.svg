@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="76" viewBox="0 0 600 76" role="img" aria-label="About Me">
+  <style>
+    .wave { transform-box: fill-box; transform-origin: 50% 85%; animation: wave 2.8s ease-in-out infinite; }
+    .heading { font-family: Arial, Helvetica, sans-serif; font-size: 34px; font-weight: 700; fill: #7aa2f7; animation: appear 1s ease-out both; }
+    @keyframes wave {
+      0%, 58%, 100% { transform: rotate(0deg); }
+      8%, 24%, 40% { transform: rotate(16deg); }
+      16%, 32%, 48% { transform: rotate(-9deg); }
+    }
+    @keyframes appear {
+      from { opacity: 0; transform: translateY(7px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+  <g class="heading">
+    <text class="wave" x="177" y="48" font-size="34">👋</text>
+    <text x="222" y="48">About Me</text>
+  </g>
+</svg>
