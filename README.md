@@ -10,7 +10,9 @@
 
 ---
 
-<h2 align="center">👋 About Me</h2>
+<p align="center">
+  <img src="./about-heading.svg" alt="About Me — animated waving hand" width="300">
+</p>
 
 <p align="center">
   <img src="./about.svg" alt="About me: Software Engineering student at UNICID, aiming for a first internship in data engineering. Learning SQL, Python and Linux. Next: ETL pipelines, Pandas and cloud basics. Side quest: automating routines with n8n." width="100%">
