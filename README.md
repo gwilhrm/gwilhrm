@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gguilhermepinheiro"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/gwilhrmpinheiro"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:guil.pinheiro014@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
   <img src="https://img.shields.io/badge/Open%20to-Internships-2ea44f?style=for-the-badge" alt="Open to internships">
 </p>
@@ -79,6 +79,26 @@
     </td>
   </tr>
   <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>✂️ Barbearia Studio XXI</h3>
+      <i>Group project · front-end website</i>
+      <p>Ten-page website for a barbershop: services, booking, team, gallery and contact, with native form validation. Built with semantic HTML and CSS only.</p>
+      <code>HTML5</code> <code>CSS3</code> <code>Flexbox</code>
+      <br><br>
+      <a href="https://gwilhrm.github.io/Barbearia-Front-End/"><img src="https://img.shields.io/badge/Live%20demo-2ea44f?style=for-the-badge" alt="Live demo"></a>
+      <a href="https://github.com/gwilhrm/Barbearia-Front-End"><img src="https://img.shields.io/badge/View%20project-1e6fff?style=for-the-badge" alt="View project"></a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🧩 Logic Exercises</h3>
+      <i>Personal project · interactive web app</i>
+      <p>90 fill-in-the-blank Python logic exercises across three difficulty levels, running in the browser. Built with the support of Claude Code to explore AI-assisted programming.</p>
+      <code>JavaScript</code> <code>HTML5</code> <code>CSS3</code>
+      <br><br>
+      <a href="https://gwilhrm.github.io/Logica-em-Python/"><img src="https://img.shields.io/badge/Live%20demo-2ea44f?style=for-the-badge" alt="Live demo"></a>
+      <a href="https://github.com/gwilhrm/Logica-em-Python"><img src="https://img.shields.io/badge/View%20project-1e6fff?style=for-the-badge" alt="View project"></a>
+    </td>
+  </tr>
+  <tr>
     <td colspan="2" valign="top" align="center">
       <h3>📈 B3 Market Data Pipeline</h3>
       <i>Personal project · financial data</i>
@@ -100,12 +120,28 @@
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
 
+**Web**
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+
 **Environment & Tools**
 <br>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gwilhrm/gwilhrm/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gwilhrm/gwilhrm/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/gwilhrm/gwilhrm/output/github-contribution-grid-snake.svg" alt="Contribution graph animation" width="100%">
+  </picture>
+</p>
 
 ---
 
