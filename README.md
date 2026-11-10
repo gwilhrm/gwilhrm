@@ -66,7 +66,7 @@
     <td width="50%" valign="top" align="center">
       <h3>🏧 MiniBank ATM</h3>
       <i>Console application</i>
-      <p>ATM simulator running in the terminal.</p>
+      <p>ATM simulator running in the terminal: login, balance, withdrawals with banknote distribution, deposits, transfers between accounts and a statement of operations.</p>
       <code>C</code>
       <br><br>
       <a href="https://github.com/gwilhrm/minibank-atm"><img src="https://img.shields.io/badge/View%20project-1e6fff?style=for-the-badge" alt="View project"></a>
@@ -116,24 +116,17 @@
 
 ## 🛠️ Tech & Tools
 
-**Data & Languages**
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+<p align="center">
+  <img src="./tech.svg" alt="Tech stack. Data: Python, SQL Server, T-SQL. Languages: C, JavaScript. Web: HTML5, CSS3. Tools: Linux on WSL2, Git, GitHub, GitHub Actions, n8n. Learning: Pandas, ETL pipelines, cloud basics." width="100%">
+</p>
 
-**Web**
-<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+---
 
-**Environment & Tools**
-<br>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gwilhrm/gwilhrm/output/stats.svg" alt="GitHub statistics: contributions, public repositories, followers and most used languages, updated daily by GitHub Actions" width="100%">
+</p>
 
 ---
 
